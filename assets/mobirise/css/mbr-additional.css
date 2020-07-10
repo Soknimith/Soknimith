@@ -542,8 +542,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
@@ -4897,7 +4897,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-roOiXYW6YT {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
